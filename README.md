@@ -4,13 +4,13 @@
 Para correr el jusgo debes serguir las siguientes instrucciónes en la terminal
 
 ```sh
-cd game 
-python3 main.py
+$ cd game 
+$ python3 main.py
 ```
 
 # App Project
 
-```shh
+```sh
 $ git clone
 $ cd app
 $ py -m venv env
