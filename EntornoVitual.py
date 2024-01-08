@@ -17,7 +17,7 @@ después que se crea, hay que activarlo
 PASO 2: ACTIVARLO, después de crear el ambiente, hay que activarlo con los siguientes comandos 
 
 $ source [nombreDeLaCarpeteAmbiente]/bin/activate : para Linux y mac
-$ source vent/bin/activate : para Linux y mac
+$ source venv/bin/activate : para Linux y mac
 $ .\venv\Scripts\activate : Usando W10 con Cmder
 $ source ./venv/Scripts/activate : para w10 usando bash
 
