@@ -13,7 +13,7 @@ def generate_pie_chart(labels, values):
     ax.pie(values, labels=labels) # aquí se le especifica que las etiquetas, son las etiquetas, enserio
     ax.axis('equal') # aquí para que el gráfico este centrado
     # plt.show()
-    plt.savefig('./imgs/pie.png')
+    plt.savefig('./imgs/chart_pie_final.png')
     plt.close()
 
 

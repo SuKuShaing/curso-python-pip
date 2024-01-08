@@ -1,0 +1,7 @@
+services:
+  app-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app # Con este cambio permite que al editar cualquier archivo fuera de docker, el cambio se implemente en docker
